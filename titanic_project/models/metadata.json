@@ -1,0 +1,12 @@
+{
+  "best_model": "Random Forest",
+  "features": [
+    "Pclass",
+    "Sex",
+    "Age",
+    "SibSp",
+    "Parch",
+    "Fare",
+    "Embarked"
+  ]
+}
